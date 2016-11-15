@@ -5,7 +5,7 @@
 import random
 
 def genera ():
-  l=range [1,42]
+  l=range (1,42)
   mi_lista=[]
   while len (mi_lista)<6:
     numero=random.choice(l)
