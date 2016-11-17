@@ -1,6 +1,6 @@
 # talleraplicadomartes
 
 #Integrantes del trabajo
-#Rocio Jimenes Bugueño
+#Rocío Jiménez Bugueño
 #Ivonne Ibacache Valdivia
 #Maximiliano Toro Ojeda
